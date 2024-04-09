@@ -1,0 +1,17 @@
+# vscode settings directory
+.vscode
+#OS X specific files.
+.DS_store
+
+#clangd cache
+.cache
+
+build/
+#*.m4
+*.o
+*.lo
+*.la
+*~
+*.pdf
+*.swp
+a.out
